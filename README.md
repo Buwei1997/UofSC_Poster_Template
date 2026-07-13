@@ -3,7 +3,7 @@ This is an unofficial LaTeX poster template for the University of South Carolina
 
 ## Preview
 
-![Preview](preview.png)
+![Preview](Preview.png)
 
 ## Features
 
