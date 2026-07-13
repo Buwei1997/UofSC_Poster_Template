@@ -9,11 +9,18 @@ This is an unofficial LaTeX poster template for the University of South Carolina
 
 - Clean UofSC-inspired design
 - Easy customization
-- Compatible with pdfLaTeX
+- Compatible with LuaLaTeX
 
 ## Usage
 
 Compile with:
 
 ```bash
-pdflatex poster.tex
+latexmk -lualatex poster.tex
+```
+
+or directly:
+
+```bash
+lualatex poster.tex
+```
